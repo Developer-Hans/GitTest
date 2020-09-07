@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Nabersin")
         print("UUUuhuow")
         print("batırdık!!")
+        print("geldi mi?")
     }
 
 
